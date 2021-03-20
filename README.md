@@ -1,8 +1,9 @@
-# Print the numbers from one to one hundred #
+# No Digit #
 
-# without using digits in the code #
+*Print the numbers from one to one hundred
+without using digits in the code*
 
-## C implementation ##
+**C implementation**
 
 ## Compile ##
 
